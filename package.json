@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jay",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "yargs": "^13.2.4"
+  }
 }
